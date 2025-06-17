@@ -46,7 +46,7 @@ The architecture of **DGAAL (Dual-Generator Adversarial Active Learning)** consi
 - `First_Improvement.py` – Implements the base DGAAL with adaptive sampling.
 - `Second_Improvement.py` – Adds progressive noise injection to the first version.
 - `Dual_Final.py` – Final version with all three improvements.
-- `Final_project_cs757.pdf` – Full technical report with architecture details, experiments, results, and visualizations.
+- `Report.pdf` – Full technical report with architecture details, experiments, results, and visualizations.
 
 ## 🧪 Dataset
 
