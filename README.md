@@ -11,6 +11,21 @@ This repository contains the implementation and iterative improvements of a **se
 - Evaluated performance on the **CIFAR-10** dataset.
 - Implemented in PyTorch, with incremental improvements tracked across versions.
 
+## 🔧 Architectural Overview
+
+The architecture of **DGAAL (Dual-Generator Adversarial Active Learning)** consists of:
+
+- Two Generators (G<sub>A</sub> and G<sub>B</sub>) for bidirectional image translation.
+- Two Discriminators (D<sub>A</sub> and D<sub>B</sub>) for domain-specific realism.
+- A shared classifier trained via an **active learning loop** using uncertainty sampling.
+- Sampling strategies and improvements such as:
+  - Adaptive sample selection
+  - Progressive noise injection
+  - Class-balanced data generation
+
+![DGAAL Architecture](assets/dgaal_architecture.png)
+
+
 ## 🔍 Improvements Implemented
 
 ### ✅ First Improvement: Adaptive Sampling Strategy
