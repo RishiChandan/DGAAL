@@ -82,7 +82,7 @@ This project is based on the research paper:
 
 ## 👨‍💻 Author
 
-Rishi Chandan – [LinkedIn](https://www.linkedin.com/in/rishichandan/) | [GitHub](https://github.com/rishichandan)
+Rishi Chandan – [LinkedIn](https://www.linkedin.com/in/rishi-chandan-didigam-18774b300) | [GitHub](https://github.com/rishichandan)
 
 ---
 
