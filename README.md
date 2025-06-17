@@ -23,7 +23,7 @@ The architecture of **DGAAL (Dual-Generator Adversarial Active Learning)** consi
   - Progressive noise injection
   - Class-balanced data generation
 
-![DGAAL Architecture](assets/dgaal_architecture.png)
+![DGAAL Architecture](dgaal_architecture.png)
 
 
 ## 🔍 Improvements Implemented
