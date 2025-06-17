@@ -73,6 +73,13 @@ The architecture of **DGAAL (Dual-Generator Adversarial Active Learning)** consi
 - Apply on higher-resolution datasets (e.g., STL-10, CelebA).
 - Explore transfer learning for initializing classifiers.
 
+## 📄 Reference
+
+This project is based on the research paper:  
+**[Dual Generative Adversarial Active Learning (DGAAL)](https://doi.org/10.1007/s10489-020-02121-4)**  
+*Junjie Zhu, Taoran Yi, et al. Applied Intelligence, 2020.*
+
+
 ## 👨‍💻 Author
 
 Rishi Chandan – [LinkedIn](https://www.linkedin.com/in/rishichandan/) | [GitHub](https://github.com/rishichandan)
